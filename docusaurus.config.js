@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Easy-Ngo',
-  tagline: 'Easy-Ngo 是一个超酷的开源golang框架',
+  tagline: 'Easy-Ngo 是一个超酷的开源 Golang 框架',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
