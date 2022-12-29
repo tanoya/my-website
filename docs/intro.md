@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: 项目简介
 ---
 
 # 什么是 `Easy-Ngo`

@@ -67,12 +67,17 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: '教程',
           },
           {
             to: '/blog', 
-            label: 'Blog', 
+            label: '博客', 
             position: 'left'
+          },
+          {
+            to: "/join_us",
+            label: "加入我们",
+            position: "left"
           },
           {
             href: 'https://github.com/tanoya/my-website',
@@ -85,10 +90,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '文档',
             items: [
               {
-                label: 'Tutorial',
+                label: '教程',
                 to: '/docs/intro',
               },
             ],
@@ -97,7 +102,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: '博客',
                 to: '/blog',
               },
               {
