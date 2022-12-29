@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '快速搭建',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Easy-Ngo 能够帮助你快速搭建你想要的网站。你和web服务只差了一个五分钟的使用教程。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '支持全面',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       在快速搭建Golang服务的同时，为你提供完备的日志、监控、报警、分布式追踪等服务。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '方便扩展',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        我们提供了完备的插件机制，你可以很方便的扩展你的服务。可以根据规范，将你喜欢的、必须的插件集成到你的服务中。
       </>
     ),
   },

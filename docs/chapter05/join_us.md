@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: 加入我们
+title: 如何加入我们
 ---
 
 # 建立投递渠道
